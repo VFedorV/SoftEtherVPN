@@ -1,0 +1,18 @@
+[submodule "src/Mayaqua/3rdparty/cpu_features"]
+	path = src/Mayaqua/3rdparty/cpu_features
+	url = https://github.com/google/cpu_features.git
+[submodule "3rdparty/tinydir"]
+	path = 3rdparty/tinydir
+	url = https://github.com/cxong/tinydir.git
+[submodule "3rdparty/BLAKE2"]
+	path = 3rdparty/BLAKE2
+	url = https://github.com/BLAKE2/BLAKE2.git
+[submodule "src/libhamcore"]
+	path = src/libhamcore
+	url = https://github.com/SoftEtherVPN/libhamcore.git
+[submodule "src/Mayaqua/3rdparty/oqs-provider"]
+	path = src/Mayaqua/3rdparty/oqs-provider
+	url = https://github.com/open-quantum-safe/oqs-provider.git
+[submodule "src/Mayaqua/3rdparty/liboqs"]
+	path = src/Mayaqua/3rdparty/liboqs
+	url = https://github.com/open-quantum-safe/liboqs.git
