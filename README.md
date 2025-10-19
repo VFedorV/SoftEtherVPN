@@ -1,4 +1,4 @@
-# SoftEther VPN
+## SoftEther VPN - forked from [SoftEtherVPN_Stable](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable)
 
 ||Badges|
 |---|---|
